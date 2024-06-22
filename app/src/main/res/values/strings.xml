@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">30 Destinations</string>
+
+    <string name="destination_1"> Nubra Valley</string>
+    <string name="d_place_1">Ladakh</string>
+    <string name="d_description_1">The barren rugged view of this valley, which lies between Kashmir and Tibet, will take your breath away. You can feast your eyes on charming monasteries, the Nubra and Shyok rivers, Bactrian camels, and sand dunes. A photographer’s delight, the valley is home to people of the Balti culture in Turtuk. </string>
+
+    <string name="destination_2">Khajjiar</string>
+    <string name="d_place_2">Himachal Pradesh</string>
+    <string name="d_description_2">Popularly known as Mini Switzerland, Khajjiar deserves your attention if you are looking for places in India for honeymoon. The combination of lush green meadows, lofty Himalayas encased in snow and dense forests make this place heavenly. Here, you can enjoy adventures like trekking, zorbing, jungle safari and paragliding.</string>
+
+    <string name="destination_3"> Valley of Flowers</string>
+    <string name="d_place_3">Uttarakhand</string>
+    <string name="d_description_3">If you are in love with the vibrant colours of nature, this valley should feature on your list of beautiful tourist places in India. Peppered with exotic and rare Himalayan flowers, it attracts trekkers and photographers in droves. This national park is a UNESCO World Heritage Site for good reason.  </string>
+
+    <string name="destination_4">Dal Lake</string>
+    <string name="d_place_4">Srinagar</string>
+    <string name="d_description_4">The serene Dal Lake is one of the most beautiful places in India to visit before you die. Also known as the Lake of Flowers or Srinagar’s Jewel, it is 1775 m above sea level, and a shikara ride on the lake can lift your spirits instantly. </string>
+
+    <string name="destination_5">Munnar</string>
+    <string name="d_place_5">Kerala</string>
+    <string name="d_description_5">This idyllic hill station, nestled in the Western Ghats, was once a favourite of the British. Verdant green and rolling hills, beautiful tea plantations, and charming towns make Munnar one of the peaceful and beautiful places in India. </string>
+
+    <string name="destination_6">Dudhsagar Falls</string>
+    <string name="d_place_6">Goa</string>
+    <string name="d_description_6">If you wish to witness the true power of waterfalls, do give this one a shot. The gushing water of this 4-tiered majestic fall,on the Mandovi River,creates a magical mist and gives it a milky white appearance. This waterfall promises hikers and trekkers an exhilarating experience.   </string>
+
+    <string name="destination_7">Yumthang Valley</string>
+    <string name="d_place_7">Sikkim</string>
+    <string name="d_description_7">Counted among the most remote and beautiful places in India, this valley gives you stunning views of the snow-capped Himalayas, verdant pastures, hot springs and colourful flowers. The sight of yaks grazing will put you in a serene mood at a height of 3700 m above sea level.</string>
+
+    <string name="destination_8">Tawang</string>
+    <string name="d_place_8">Arunachal Pradesh</string>
+    <string name="d_description_8">Gorgeous blue lakes, passes with amazing views, verdant greenery and tranquil monasteries make Tawang one of the best places to explore in India. The 400-year-old Tawang Monastery or Golden Namgyal Lhatse (second largest in the world) is a special attraction here. At a height of about 3048 m above sea level, Tawang boasts snowfall in November and December especially.</string>
+
+    <string name="destination_9">Sundarbans Mangrove</string>
+    <string name="d_place_9">West Bengal</string>
+    <string name="d_description_9">Essentially a delta that has come into being due to the confluence of Ganga, Brahmaputra and Meghna Rivers, Sundarbans is among the wonderful places nature lovers can visit. Even if you are not lucky enough to sight the Royal Bengal Tiger, a boat ride amidst the mangroves will enchant you. Estuarine crocodiles and various birds are easy to spot.</string>
+
+    <string name="destination_10">Ranthambore National Park</string>
+    <string name="d_place_10">Rajasthan</string>
+    <string name="d_description_10">Spread across 1334 sq.km, this sprawling national park attracts wildlife enthusiasts from all over. You can hope to come across leopards, tigers and marsh crocodiles, and soak in the beauty of PadamTalao Lake, dotted with water lilies. History buffs will be entranced by the Ranthambore Fort and the Ganesh Mandir.</string>
+
+    <string name="destination_11">Varanasi Ghats</string>
+    <string name="d_place_11">Uttar Pradesh</string>
+    <string name="d_description_11">Find spiritual bliss in one of the oldest cities in the world, Varanasi. The Ghats here overlook the holy River Ganga and draw countless Hindu pilgrims every year. Funeral rites conducted at the Ghats are believed to offer Nirvana to souls. The uniquely charming atmosphere combines age-old beliefs, evening prayers with lamps and the scent of incense and camphor.</string>
+
+    <string name="destination_12">Dawki</string>
+    <string name="d_place_12">Meghalaya</string>
+    <string name="d_description_12">The quaint town of Dawki not only connects India and Bangladesh, but is also counted among the clean and beautiful places in India which are plastic-free. It is nestled in the green Jaintia Hills and is particularly famous for the Umngot River, which is crystal clear and breathtaking. The suspension bridge over the river is an attraction too.</string>
+
+    <string name="destination_13">Bhedaghat</string>
+    <string name="d_place_13">Madhya Pradesh</string>
+    <string name="d_description_13">Are you passionate about unique terrains? A visit to Bhedhaghat is a must then, owing to the craggy Marble Rocks you can witness here. Overlooking the River Narmada, this town’s allure lies in the boat rides it offers in between the marble mountains that reach up to 100 feet in height.</string>
+
+    <string name="destination_14">Rann of Kutch</string>
+    <string name="d_place_14">Gujarat </string>
+    <string name="d_description_14">Widely known as the salt desert or salt marsh of India, the Rann has an unusual barren beauty, especially on a moonlit night. If you wish to enjoy the lively colours, sounds and scents of the Rann Utsav, plan your trip in November.</string>
+
+    <string name="destination_15">Andaman and Nicobar Islands</string>
+    <string name="d_place_15">Andaman and Nicobar Islands</string>
+    <string name="d_description_15">Among the most beautiful places in India for couples during winter, Andaman and Nicobar Islands rank high for its serenity, coral reefs, seafood joints, and are perfect for those who love to swim, snorkel or dive and explore marine life. Gorgeous blue-green waters, verdant forests and unforgettable sunsets add to the romance.</string>
+
+    <string name="destination_16">Gulmarg</string>
+    <string name="d_place_16">Jammu and Kashmir</string>
+    <string name="d_description_16">Admire nature in all its glory in Gulmarg, a hill station in the Baramulla district. With the PirPanjal Range in its backdrop, Gulmarg is great for indulging in skiing, golfing, gondola rides, and leisurely pony rides.</string>
+
+    <string name="destination_17">Sand dunes</string>
+    <string name="d_place_17">Jaisalmer</string>
+    <string name="d_description_17">The colour of gold, sand dunes in Jaisalmer are gently undulating, almost barren and promise you an experience of a lifetime. A lazy camel ride over the crests and troughs can make for exclusive memories. You can enjoy vibrant cultural programs, bonfires, jeep safaris or stare at the clear night sky.</string>
+
+    <string name="destination_18">Mahabaleshwar</string>
+    <string name="d_place_18">Maharashtra</string>
+    <string name="d_description_18">This gorgeous green hill station is nestled in the Western Ghats and known for impressive viewpoints like Arthur’s Seat, Elephant’s Head Point, Babington Point, and Lodwick Point. You can enjoy a tranquil boat ride on Venna Lake when you are not trekking along the peaks and valleys.</string>
+
+    <string name="destination_19">Hampi</string>
+    <string name="d_place_19">Karnataka</string>
+    <string name="d_description_19">This ancient village is a UNESCO World Heritage Site and one of those places in India to visit with family. History buffs will love the temple ruins that dot the landscape and date back to the Vijayanagara Empire. Apart from the stone chariot in front of the Vittala Temple site, take out time to admire the uneven terrain and rustic vibes.</string>
+
+    <string name="destination_20">Mount Abu</string>
+    <string name="d_place_20">Rajasthan</string>
+    <string name="d_description_20">If a hill station in the middle of a massive desert is not nature’s miracle, we don’t know what is! Perched on a rocky and high plateau, this place is a part of the Aravalli Range. Visit the wondrous Dilwara Temples for their intricate carvings in white marble and enjoy boat rides on Nakki Lake.</string>
+
+    <string name="destination_21">Agatti Island</string>
+    <string name="d_place_21">Lakshadweep</string>
+    <string name="d_description_21">If white beaches, swaying coconut trees, stunning turquoise waters and colourful marine life excite you, this island is the perfect vacation destination. Water skiing, snorkelling, boat rides, kayaking, scuba diving and sailing are some of the adventure activities this tropical paradise offers.</string>
+
+    <string name="destination_22">Chikmagalur</string>
+    <string name="d_place_22">Karnataka</string>
+    <string name="d_description_22">Situated at the base of Mullayanagiri Range, this hill station is a verdant getaway known for its numerous coffee plantations. You can trek through forests and grasslands to reach the Mullayanagiri Peak or sight leopards, elephants and tigers at Bhadra Wildlife Sanctuary.</string>
+
+    <string name="destination_23">Emerald Lake</string>
+    <string name="d_place_23">Ooty</string>
+    <string name="d_description_23">Surrounded by lush green hills of the Nilgiris, this picturesque lake is located in the silent valley and wows with its soothing blue-green waters. Fishing and boating are the popular activities you can indulge in here.</string>
+
+    <string name="destination_24">Bir</string>
+    <string name="d_place_24">Himachal Pradesh</string>
+    <string name="d_description_24">Quaint and tiny, Bir is a charming hamlet with the majestic Dhauladhar Range in its background. Home to many Tibetans, this town will steal your heart with its green expanses and monasteries. This place is famous for camping, paragliding, trekking and mountain biking.</string>
+
+    <string name="destination_25">Triveni Sangamam</string>
+    <string name="d_place_25">Kanyakumari</string>
+    <string name="d_description_25">The southernmost tip of India is one of the wonderful places you can add to your wanderlust list. And the beach Triveni Sangamam is popular for witnessing the confluence of three seas – the Arabian Ocean, Bay of Bengal and Indian Ocean. Apart from capturing the natural beauty of the waves on your camera, take a holy dip too.</string>
+
+    <string name="destination_26">Auli</string>
+    <string name="d_place_26">Uttarakhand</string>
+    <string name="d_description_26">Snow-clad Himalayas and dense oak and coniferous forests make Auli a stunning place for nature lovers to seek peace and relaxation. Enjoy skiing at an altitude of around 2900 m or soak in scenic views from the ropeway that connects Auli with Joshimath.</string>
+
+    <string name="destination_27">Wayanad</string>
+    <string name="d_place_27">Kerala</string>
+    <string name="d_description_27">Among the most beautiful places to visit in India, the lush green and rustic district of Wayanad is a must mention. At a height of 2100m above sea level, it attracts trekkers and campers. From gorgeous flowers and waterfalls to exotic birds, animals and ancient caves, Wayanad has a lot to offer.</string>
+
+    <string name="destination_28">Gandikota Canyon</string>
+    <string name="d_place_28">Andhra Pradesh</string>
+    <string name="d_description_28">Located on the banks of the River Pennar, the Gandikota village is also a fort that was once a stronghold of Pemmasani Nayakas, the Golconda Sultanate and Kalyani Chalukyas. And the canyon is essentially the gorge created by the Pennar, offering amazing views.</string>
+
+    <string name="destination_29">Gurudongmar Lake</string>
+    <string name="d_place_29">Sikkim</string>
+    <string name="d_description_29">At a staggering elevation of 5430 m, this beautiful blue lake will blow your mind. The chilly water and pristine snow-clad mountains all around add to the unique appeal of this place. It is also considered sacred by Hindus, Buddhists and Sikhs</string>
+
+    <string name="destination_30">Lake Pichola</string>
+    <string name="d_place_30">Udaipur</string>
+    <string name="d_description_30">Apart from being the oldest lake in Udaipur, Lake Pichola is also one of the largest. The serene artificial fresh water of the lake reflects the Aravalli Mountains, which makes a boat ride worth it. Impressive palaces, Ghats and temples surround the lake, casting a magical light after sunset.</string>
+
+</resources>
